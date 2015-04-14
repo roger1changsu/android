@@ -23,8 +23,5 @@ This is SUB-TITLE
 **粗体**
 
 
-.. code:: java
+.. code-block:: java
    import com.java.util.*;
-
-```python
-class SomeClass:
