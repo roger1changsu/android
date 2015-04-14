@@ -22,11 +22,17 @@ This is SUB-TITLE
 
 **粗体**
 
-
+**代码块示例***
+**示例***
 ::
 
-    block
+    .. code:: java
+    
+        function whatever() {
+            return "such color"
+        }
 
+***效果***
 .. code:: java
 
     function whatever() {
