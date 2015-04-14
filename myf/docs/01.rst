@@ -22,7 +22,7 @@ This is SUB-TITLE
 
 **粗体**
 
-.. code:: javascript
+.. code:: java
 
     function whatever() {
         return "such color"
