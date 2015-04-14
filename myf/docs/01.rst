@@ -22,8 +22,8 @@ This is SUB-TITLE
 
 **粗体**
 
-**代码块示例***
-**示例***
+**代码块示例**
+**示例**
 ::
 
     .. code:: java
@@ -32,7 +32,7 @@ This is SUB-TITLE
             return "such color"
         }
 
-***效果***
+**效果**
 .. code:: java
 
     function whatever() {
