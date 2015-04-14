@@ -28,17 +28,32 @@ This is SUB-TITLE
 **示例**
 
 ::
-
     .. code:: java
+        import com.java.util.*
     
-        function whatever() {
-            return "such color"
+        public class ClassDemo {
+    
+            private String var;
+    
+            public ClassDemo() {
+            }
+    
+            private void demoMethod() {
+            }
         }
 
 **效果**
 
 .. code:: java
+    import com.java.util.*
 
-    function whatever() {
-        return "such color"
+    public class ClassDemo {
+
+        private String var;
+
+        public ClassDemo() {
+        }
+
+        private void demoMethod() {
+        }
     }
